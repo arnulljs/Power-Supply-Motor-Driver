@@ -57,6 +57,12 @@ This repository contains the PCB project files for a **Power Supply and Motor Dr
 
 ## 🙏 Acknowledgment
 
-Special thanks to **Noxctis** for the custom 3D model of the TO-220 heatsink.
+Credits to **Noxctis** for the custom 3D model of the TO-220 heatsink.
 
+## 📷 Documentation
 
+### Image 1
+![Top view of the board](documentation/NAJERA_PA5-1-view1.png)
+
+### Image 2
+![Angled view of the board](documentation/NAJERA_PA5-1-view2.png)
